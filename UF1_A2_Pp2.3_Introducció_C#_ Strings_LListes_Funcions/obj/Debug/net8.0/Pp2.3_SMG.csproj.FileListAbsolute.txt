@@ -1,0 +1,14 @@
+c:\Users\USER\Desktop\SMX2\Introducció a la programació\.cs\Practica 3 C#\Pp2.3_SMG\bin\Debug\net8.0\Pp2.3_SMG.exe
+C:\Users\USER\Desktop\SMX2\Introducció a la programació\.cs\Practica 3 C#\Pp2.3_SMG\bin\Debug\net8.0\Pp2.3_SMG.deps.json
+C:\Users\USER\Desktop\SMX2\Introducció a la programació\.cs\Practica 3 C#\Pp2.3_SMG\bin\Debug\net8.0\Pp2.3_SMG.runtimeconfig.json
+c:\Users\USER\Desktop\SMX2\Introducció a la programació\.cs\Practica 3 C#\Pp2.3_SMG\bin\Debug\net8.0\Pp2.3_SMG.dll
+c:\Users\USER\Desktop\SMX2\Introducció a la programació\.cs\Practica 3 C#\Pp2.3_SMG\bin\Debug\net8.0\Pp2.3_SMG.pdb
+c:\Users\USER\Desktop\SMX2\Introducció a la programació\.cs\Practica 3 C#\Pp2.3_SMG\obj\Debug\net8.0\Pp2.3_SMG.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\USER\Desktop\SMX2\Introducció a la programació\.cs\Practica 3 C#\Pp2.3_SMG\obj\Debug\net8.0\Pp2.3_SMG.AssemblyInfoInputs.cache
+c:\Users\USER\Desktop\SMX2\Introducció a la programació\.cs\Practica 3 C#\Pp2.3_SMG\obj\Debug\net8.0\Pp2.3_SMG.AssemblyInfo.cs
+c:\Users\USER\Desktop\SMX2\Introducció a la programació\.cs\Practica 3 C#\Pp2.3_SMG\obj\Debug\net8.0\Pp2.3_SMG.csproj.CoreCompileInputs.cache
+c:\Users\USER\Desktop\SMX2\Introducció a la programació\.cs\Practica 3 C#\Pp2.3_SMG\obj\Debug\net8.0\Pp2.3_SMG.dll
+c:\Users\USER\Desktop\SMX2\Introducció a la programació\.cs\Practica 3 C#\Pp2.3_SMG\obj\Debug\net8.0\refint\Pp2.3_SMG.dll
+c:\Users\USER\Desktop\SMX2\Introducció a la programació\.cs\Practica 3 C#\Pp2.3_SMG\obj\Debug\net8.0\Pp2.3_SMG.pdb
+C:\Users\USER\Desktop\SMX2\Introducció a la programació\.cs\Practica 3 C#\Pp2.3_SMG\obj\Debug\net8.0\Pp2.3_SMG.genruntimeconfig.cache
+C:\Users\USER\Desktop\SMX2\Introducció a la programació\.cs\Practica 3 C#\Pp2.3_SMG\obj\Debug\net8.0\ref\Pp2.3_SMG.dll
