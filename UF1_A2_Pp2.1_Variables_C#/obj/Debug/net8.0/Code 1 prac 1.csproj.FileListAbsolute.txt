@@ -1,0 +1,14 @@
+C:\Users\USER\Desktop\SMX2\Introducció a la programació\.cs\Code 1 prac 1\obj\Debug\net8.0\Code 1 prac 1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER\Desktop\SMX2\Introducció a la programació\.cs\Code 1 prac 1\obj\Debug\net8.0\Code 1 prac 1.AssemblyInfoInputs.cache
+C:\Users\USER\Desktop\SMX2\Introducció a la programació\.cs\Code 1 prac 1\obj\Debug\net8.0\Code 1 prac 1.AssemblyInfo.cs
+C:\Users\USER\Desktop\SMX2\Introducció a la programació\.cs\Code 1 prac 1\obj\Debug\net8.0\Code 1 prac 1.csproj.CoreCompileInputs.cache
+C:\Users\USER\Desktop\SMX2\Introducció a la programació\.cs\Code 1 prac 1\bin\Debug\net8.0\Code 1 prac 1.exe
+C:\Users\USER\Desktop\SMX2\Introducció a la programació\.cs\Code 1 prac 1\bin\Debug\net8.0\Code 1 prac 1.deps.json
+C:\Users\USER\Desktop\SMX2\Introducció a la programació\.cs\Code 1 prac 1\bin\Debug\net8.0\Code 1 prac 1.runtimeconfig.json
+C:\Users\USER\Desktop\SMX2\Introducció a la programació\.cs\Code 1 prac 1\bin\Debug\net8.0\Code 1 prac 1.dll
+C:\Users\USER\Desktop\SMX2\Introducció a la programació\.cs\Code 1 prac 1\bin\Debug\net8.0\Code 1 prac 1.pdb
+C:\Users\USER\Desktop\SMX2\Introducció a la programació\.cs\Code 1 prac 1\obj\Debug\net8.0\Code 1 prac 1.dll
+C:\Users\USER\Desktop\SMX2\Introducció a la programació\.cs\Code 1 prac 1\obj\Debug\net8.0\refint\Code 1 prac 1.dll
+C:\Users\USER\Desktop\SMX2\Introducció a la programació\.cs\Code 1 prac 1\obj\Debug\net8.0\Code 1 prac 1.pdb
+C:\Users\USER\Desktop\SMX2\Introducció a la programació\.cs\Code 1 prac 1\obj\Debug\net8.0\Code 1 prac 1.genruntimeconfig.cache
+C:\Users\USER\Desktop\SMX2\Introducció a la programació\.cs\Code 1 prac 1\obj\Debug\net8.0\ref\Code 1 prac 1.dll
