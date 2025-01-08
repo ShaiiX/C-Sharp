@@ -16,6 +16,8 @@ Aquest codi ha de complir les següents característiques:
 
 EX2: Demana la longitud de l'aresta d'un cub i calcula i mostra el seu volum.
 
+Aquest codi ha de complir les següents característiques: S’ha de resoldre una formula (per calcular volums, velocitats...) Has de demanar els valors necessaris per la seva correcta resolució, així com el càlcul de les unitats correctes. (Es comprovarà també la bona utilització de variables)
+
 EX3: Demana els coeficients A, B i C d'una equació de segon grau i calcula les solucions si el discriminant és positiu, 0, o no n'hi ha solucions si és negatiu.
 
 
