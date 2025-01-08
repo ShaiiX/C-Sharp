@@ -3,7 +3,6 @@ Aquesta tasca consta de 3 exercicis els quals l'usuari pot triat quins realitzar
 EX1: Demana el nom i l'edat de l'usuari, i calcula l'edat d'aquí a 5 anys i el doble de l'edat actual.
 EX2: Demana la longitud de l'aresta d'un cub i calcula el seu volum.
 EX3: Demana els coeficients d'una equació de segon grau i calcula les solucions.
-*Els altres exercicis no estan disponibles*
 
 Aquest condi compleix les següents característiques:
 
