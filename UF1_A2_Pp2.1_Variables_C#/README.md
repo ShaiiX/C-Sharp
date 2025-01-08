@@ -4,6 +4,7 @@ EX1: Variables
 
 
 Aquest condi compleix les següents característiques:
+
 •	Hi ha d’haver dos tipus diferents de variables (mostra la part del codi on això passi).
 
 •	Hi ha d’haver com a mínim dos entrades de valor per teclat. 
