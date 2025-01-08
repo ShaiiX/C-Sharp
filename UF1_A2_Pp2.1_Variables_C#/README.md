@@ -15,6 +15,7 @@ EX1: Demana el nom i l'edat de l'usuari, després calcula l'edat d'aquí a 5 any
 •	Hi ha d’haver una la concatenació d’strings.
 
 
+
 EX2: Demana la longitud de l'aresta d'un cub i calcula i mostra el seu volum.
 
 *Aquest codi ha de complir les següents característiques:*
