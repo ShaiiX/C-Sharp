@@ -1,11 +1,11 @@
 # C#
 Repositori per projectes i codis de C#.
-- C#: Variables
+- C#1: Variables
 
-- C#: Estructures
+- C#2: Estructures
 
-- C#: Strings, llistes i funcions
+- C#3: Strings, llistes i funcions
 
-- C#: Projecte
+- C#4: Projecte
 
   *Shaila Martínez - 2nC SMX*
