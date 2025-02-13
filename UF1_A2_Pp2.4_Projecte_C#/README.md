@@ -12,3 +12,14 @@ Compleix aquestes característiques:
 
 - Sortir del casino en qualsevol moment amb un balanç final (si ja no disposem de més saldo ens ho ha d’informar i enviar-nos a la sortida també).
 
+JOC 1: Ruleta --> 
+
+JOC 2: Blackjack -->
+
+JOC 3: Carrera de cavalls -->
+
+JOC 4: Màquina escarabutxaques --> 
+
+JOC 5: Daus --> 
+
+OPCIÓ 6: Sortir del casino
