@@ -21,6 +21,9 @@ EX5: Lloguer d'apartaments --> Fer un gestor lloguer d'apartaments per saber si 
 - Segons això s’hauran de demanar les següents dades. 
 
 •	L'edat del client.
+
 •	Els ingressos mensuals del client en euros.
+
 •	Si el client té una referència de lloguer anterior positiva (Sí o No).
+
 •	El nombre d'infraccions de trànsit greus registrades en els últims 5 anys
