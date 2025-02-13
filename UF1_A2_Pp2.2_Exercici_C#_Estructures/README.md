@@ -18,7 +18,7 @@ EX5: Lloguer d'apartaments --> Fer un gestor lloguer d'apartaments per saber si 
 
 - El client no pot tenir més de 1 infracció de trànsit greu registrada en els últims 5 anys.
 
-- Segons això s’hauran de demanar les següents dades. 
+Segons això s’hauran de demanar les següents dades. 
 
 •	L'edat del client.
 
